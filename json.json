@@ -1,6 +1,10 @@
 {
-  "user": "cringina",
-  "name": "cringina player",
-  "character": "05",
-  "hp":5000,
+  "userinfo":[
+    {
+      "user": "cringina",
+      "name": "cringina player",
+      "character": "05",
+      "hp":5000
+    }
+  ]
 }
